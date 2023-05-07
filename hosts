@@ -1,0 +1,6 @@
+# Host (inventory) file 
+
+[servers]
+10.10.10.138
+
+10.10.10.138 ansible_user=r2d2 ansible_password=r2d2
